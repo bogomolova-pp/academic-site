@@ -76,13 +76,13 @@ languages:
   - name: English
     level: 5
     label: Native
-  - name: Spanish
-    level: 4
+  - name: Chinese
+    level: 2
     label: Fluent
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Golden Medal
+    awarder: Lyceum
+    date: "2025-06-25"
+    summary: Awarded for success in studying
     icon: hero/trophy
